@@ -57,8 +57,8 @@ Rides are definitely more popular in the urban area as opposed to suburban and r
 **Summary:** Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
 1. There are far less drivers in rural areas equating to less rides. There is always room to expand. There are more people living in the urban areas resulting in more total rides. But when you look at the total drivers in urban areas vs. the total rides, you have way more drivers than actual rides. Maybe some of these drivers could offer rides in the rural or suburban areas to be able to increase rides.
-2. If you are able to increase the number of rides offered in the rural and suburan areas, you also lower the average fare per ride making your ride share more appealing.
-3. 
+2. If you are able to increase the number of rides offered in the rural and suburan areas, you also lower the average fare per ride making your ride share more appealing to customers.
+3. There was also a spike in rides bewteen Feb and Mar. Based on demand, you could also increase your fares per previous trends.
 
 The README.md document should be in the home directory of your repository. All links should be working, and images and code should be formatted and displayed where appropriate.
 
