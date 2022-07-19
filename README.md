@@ -35,7 +35,7 @@ We have also provided two videos. The first video we show you how to use the `pi
 
 The multi-line graph should have a line for each city type, that shows the sum of the fares for each week on one graph.
 
-![My_Image](multi line graph.png)
+[![My_Image](multi line graph.png)](https://github.com/tabathamurray/PyBer_Analysis/blob/63e52590de1328036db7852d78fc9a55ffeef297/multi%20line%20graph.PNG)
 
 ## Deliverable 3: Written Report for the PyBer Analysis
 
