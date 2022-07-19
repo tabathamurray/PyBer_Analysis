@@ -13,7 +13,7 @@ Download the `PyBer_Challenge_starter_code.ipynb` file into your PyBer_Analysis 
 
 The summary DataFrame should have the total rides, total drivers, the total fares, the average fare per ride and the average fare per driver for each city type.
 
-![Summary DataFrame](Summary_DataFrame.png)
+![Summary DataFrame](summary dataframe.png)
 
 ## Deliverable 2: A Multiple-line Chart of Total Fares for each City Type
 
@@ -35,7 +35,7 @@ We have also provided two videos. The first video we show you how to use the `pi
 
 The multi-line graph should have a line for each city type, that shows the sum of the fares for each week on one graph.
 
-![Multi-line graph](Challenge_fare_summary.png)
+![Multi-line graph](multi line graph.png)
 
 ## Deliverable 3: Written Report for the PyBer Analysis
 
