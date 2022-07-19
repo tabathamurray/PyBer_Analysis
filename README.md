@@ -13,7 +13,7 @@ Download the `PyBer_Challenge_starter_code.ipynb` file into your PyBer_Analysis 
 
 The summary DataFrame should have the total rides, total drivers, the total fares, the average fare per ride and the average fare per driver for each city type.
 
-![My_Image](summary dataframe.png)
+[![My_Image](summary dataframe.png)](https://github.com/tabathamurray/PyBer_Analysis/blob/9252ead08d25d21c5aca8f38401493d4688573f9/summary%20dataframe.PNG)
 
 ## Deliverable 2: A Multiple-line Chart of Total Fares for each City Type
 
@@ -35,7 +35,7 @@ We have also provided two videos. The first video we show you how to use the `pi
 
 The multi-line graph should have a line for each city type, that shows the sum of the fares for each week on one graph.
 
-[[![My_Image](multi line graph.png)]]
+[[[![My_Image](multi line graph.png)]]](https://github.com/tabathamurray/PyBer_Analysis/blob/9252ead08d25d21c5aca8f38401493d4688573f9/multi_line_graph.PNG)
 
 ## Deliverable 3: Written Report for the PyBer Analysis
 
@@ -49,10 +49,16 @@ The purpose of this challenge is to show a thorough understanding of grouping mu
 
 **Results:** Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-[![My_Image](summary dataframe.png)]
-[[![My_Image](multi line graph.png)]](https://github.com/tabathamurray/PyBer_Analysis/blob/b892046ce2b83b8b44afa2fa6c561a434e5f0ebc/multi_line_graph.PNG)
+[[![My_Image](summary dataframe.png)]](https://github.com/tabathamurray/PyBer_Analysis/blob/9252ead08d25d21c5aca8f38401493d4688573f9/summary%20dataframe.PNG)
+![multi_line_graph.png](https://github.com/tabathamurray/PyBer_Analysis/blob/b892046ce2b83b8b44afa2fa6c561a434e5f0ebc/multi_line_graph.PNG)
+
+Rides are definitely more popular in the urban area as opposed to suburban and rural areas, but the average fare is definitely higher in rural areas. There are far more drivers in the urban area than there is in suburban area and rural area combined.
 
 **Summary:** Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
+1. There are far less drivers in rural areas equating to less rides. There is always room to expand. There are more people living in the urban areas resulting in more total rides. But when you look at the total drivers in urban areas vs. the total rides, you have way more drivers than actual rides. Maybe some of these drivers could offer rides in the rural or suburban areas to be able to increase rides.
+2. If you are able to increase the number of rides offered in the rural and suburan areas, you also lower the average fare per ride making your ride share more appealing.
+3. 
 
 The README.md document should be in the home directory of your repository. All links should be working, and images and code should be formatted and displayed where appropriate.
 
