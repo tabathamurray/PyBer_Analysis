@@ -35,7 +35,7 @@ We have also provided two videos. The first video we show you how to use the `pi
 
 The multi-line graph should have a line for each city type, that shows the sum of the fares for each week on one graph.
 
-[![My_Image](multi line graph.png)]
+[[![My_Image](multi line graph.png)]]
 
 ## Deliverable 3: Written Report for the PyBer Analysis
 
@@ -50,7 +50,7 @@ The purpose of this challenge is to show a thorough understanding of grouping mu
 **Results:** Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
 [![My_Image](summary dataframe.png)]
-[![My_Image](multi line graph.png)]
+[[![My_Image](multi line graph.png)]](https://github.com/tabathamurray/PyBer_Analysis/blob/b892046ce2b83b8b44afa2fa6c561a434e5f0ebc/multi_line_graph.PNG)
 
 **Summary:** Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
